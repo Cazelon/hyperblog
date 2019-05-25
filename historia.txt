@@ -3,3 +3,5 @@ Esta es la versión de prueba de un archivo para usar git
 linea adicional para este archivo.
 
 su vida y obra maestra
+
+Camilo es el nuevo integrante del equipo para este proyecto
